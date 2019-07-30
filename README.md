@@ -30,4 +30,4 @@ get popups about the notebook not being authored by Google and other things, jus
 * Deep Learning course: http://cs231n.github.io/
 
 ## Disclaimer
-Original material from https://github.com/estherpuyol/MRAI_workshop/
+Original material: https://github.com/estherpuyol/MRAI_workshop/
